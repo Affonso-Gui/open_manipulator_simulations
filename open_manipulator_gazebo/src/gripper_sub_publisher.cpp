@@ -23,7 +23,9 @@ ros::Publisher gripper_joint_sub_pub;
 
 void gripperJointCallback(const std_msgs::Float64::ConstPtr& msg)
 {
-  gripper_joint_sub_pub.publish(msg);
+  std_msgs::Float64 flip;
+  flip.data = -msg->data;
+  gripper_joint_sub_pub.publish(flip);
 }
 
 int main(int argc, char **argv)
