@@ -1,6 +1,5 @@
-# OpenManipulator
-<img src="https://github.com/ROBOTIS-GIT/emanual/blob/master/assets/images/platform/openmanipulator/OpenManipulator.png">
-<img src="https://github.com/ROBOTIS-GIT/emanual/blob/master/assets/images/platform/openmanipulator/OpenManipulator_Chain_Capture.png" width="500">
+# OpenManipulator featuring MikataArm
+![mikata_arm](https://user-images.githubusercontent.com/20625381/49922788-0cccef80-fef5-11e8-8fa9-c05db0a9ceb6.png)
 
 ## ROS Packages for OpenManipulator
 |Version|Kinetic + Ubuntu Xenial|Melodic + Ubuntu Bionic|
