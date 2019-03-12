@@ -20,6 +20,14 @@ joint4_position:
   type: position_controllers/JointPositionController
   joint: joint4
 
+joint5_position:
+  type: position_controllers/JointPositionController
+  joint: joint5
+
+joint6_position:
+  type: position_controllers/JointPositionController
+  joint: joint6
+
 gripper_position:
   type: position_controllers/JointPositionController
   joint: gripper

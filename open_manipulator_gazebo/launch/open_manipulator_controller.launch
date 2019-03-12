@@ -12,6 +12,8 @@
                                                joint2_position
                                                joint3_position
                                                joint4_position
+                                               joint5_position
+                                               joint6_position
                                                gripper_position
                                                gripper_sub_position"/>
 
