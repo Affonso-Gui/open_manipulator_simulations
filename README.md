@@ -1,5 +1,5 @@
-# OpenManipulator featuring MikataArm
-![mikata_arm](https://user-images.githubusercontent.com/20625381/49922788-0cccef80-fef5-11e8-8fa9-c05db0a9ceb6.png)
+# OpenManipulator featuring 6DOF MikataArm
+![mikata_arm_6dof](https://user-images.githubusercontent.com/20625381/54344771-fa458c00-4684-11e9-9a17-52ad49b37959.png)
 
 ## ROS Packages for OpenManipulator
 |Version|Kinetic + Ubuntu Xenial|Melodic + Ubuntu Bionic|
